@@ -1,5 +1,9 @@
 # Epitech-Lobby-Project
 
+## Hey you
+
+**If this directory was useful to you, do not hesitate to star it**
+
 |Project	|Detail   	|
 |:--:	|:-:	|
 |       | <font size="5"> **TECK1**</font> |
@@ -15,7 +19,11 @@
 |[207demography](https://github.com/Tom-Hermann/207demography)| basic: **100%** / corelation: **100%** / fits: **100%** / rigor: **100%**      |
 |[208dowels](https://github.com/Tom-Hermann/208dowels)| basic: **100%** / fit: **66.6%** / rigor: **85.7** / validity: **66.6%**     |
 |[209poll](https://github.com/Tom-Hermann/209poll)| basic: **100%** / confidence: **100%** / mathematical rigor: **0%** / rigor: **100%**       |
-|[]()|        |
-|[]()|        |
-|[]()|        |
-|[]()|        |
+|       |  <font size="5"> Functionnal</font> |
+|[Image Compressor](https://github.com/Tom-Hermann/Image_Compressor)	|	|
+|       |  <font size="5"> Unix Prog. - Memory</font> |
+|[malloc](https://github.com/Tom-Hermann/malloc)| Preliminaries: **100%** / basics tests: **100%** / intermediate tests: **86.7%** </br> hard tests: **86.7%** / bestfit tests: **0%** /  exec tests: **100%** </br> 28 / 33     |
+|[nm objdump](https://github.com/Tom-Hermann/objdump)| args tests: **50%** / basics: **100%** / advanced tests: **50%** / cheater test: **100%** </br> error tests: **0%** / full compliance tests: **25%** / header tests: **50%** / section data tests: **66.7%** / section name tests: **100%** </br>  19 / 32     |
+|[]()|       |
+
+
