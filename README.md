@@ -2,6 +2,9 @@
 
 |Project	|Detail   	|
 |:--:	|:-:	|
+|       | <font size="5"> **TECK1**</font> |
+|       |  <font size="5"> Elementary Programming</font> |
+|[BSQ](https://github.com/Tom-Hermann/BSQ)| 97x21 rectangle: **100%** / 1x1 - intermediate: **100%**  / line - intermediate: **100%** </br> column - intermediate: **100%** / 34x137 rectangle: **100%** / Square 187x187: **100%** / Special cases : **100%** / Big maps: **80%** / Error handling: **25%**      |
 |       | <font size="5"> **TECK2**</font> |
 |       |  <font size="5"> MATH</font> |
 |[202Unsold](https://github.com/Tom-Hermann/202Unsold)| rigor: **100%** / expected values and variances: **100%** / law of Z: **100%** </br> laws of X and Y: **100%** / rigor **100%**       |
