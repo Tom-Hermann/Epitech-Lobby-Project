@@ -27,6 +27,7 @@
 |[nm objdump](https://github.com/Tom-Hermann/objdump)| args tests: **50%** / basics: **100%** / advanced tests: **50%** / cheater test: **100%** </br> error tests: **0%** / full compliance tests: **25%** / header tests: **50%** / section data tests: **66.7%** / section name tests: **100%** </br>  **19 / 32**     |
 |       | <font size="5"> **TECK3**</font> |
 |       |  <font size="6"> Math</font> |
+|       |  <font size="6"> Functionnal</font> |
 |[]()|       |
 
 
