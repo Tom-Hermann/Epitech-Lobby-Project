@@ -28,6 +28,7 @@
 |       | <font size="5"> **TECK3**</font> |
 |       |  <font size="6"> Math</font> |
 |       |  <font size="6"> Functionnal</font> |
+|[HAL](https://github.com/Tom-Hermann/HAL)| basic: **66.7%** / quote: **50%** / cons, car, cdr: **60%** / arithmetics: **100%**  </br> equalities: **100%** / define: **100%** / conditionnals: **100%** / lambda: **66.7%** </br>  complex programs : **40%** / error handling: **75** / coding style: **100%**|
 |[]()|       |
 
 
